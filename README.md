@@ -12,3 +12,12 @@ This is a basic Snake Game implemented in Python using the pygame library.
 - Game over on snake collision with walls or itself
 - Food appears at random positions
 - Real-time score tracking
+
+# Clone the Repository: 
+- git clone https://github.com/your-username/Snake-Game.git
+
+# Navigate into the Project folder:
+- cd Snake-Game
+
+ # Run the python script: 
+ - python main.py
