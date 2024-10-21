@@ -14,7 +14,7 @@ This is a basic Snake Game implemented in Python using the pygame library.
 - Real-time score tracking
 
 # Clone the Repository: 
-- git clone https://github.com/your-username/Snake-Game.git
+- git clone https://github.com/Vaibhavy098/Snake-Game.git
 
 # Navigate into the Project folder:
 - cd Snake-Game
